@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# writes text file with collection of all strings found in a given binary
 
 echo "Attempting disassembly of $1 ..."
 
